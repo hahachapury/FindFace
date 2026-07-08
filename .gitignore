@@ -1,0 +1,10 @@
+folders/
+metadata.csv
+faces_metadata.csv
+photos_metadata.csv
+
+pycache/
+.venv/
+.env
+
+.insightface/
